@@ -4,7 +4,7 @@ A system based on financial analyzing binomial module
 ### Group members: Yefei Lu, Hong Hu
 
 ## Application Flow Chart   
-[Flow Chart](https://s3.amazonaws.com/honghu215.me/flowchart.png)
+![Flow Chart](https://s3.amazonaws.com/honghu215.me/flowchart.png)
 1. **Project description**:  
   Build a client-server application to support a simplified model of a financial risk management
 system. The mathematical finance will be adapted from lectures taught in the CS765 course.
