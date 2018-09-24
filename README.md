@@ -19,17 +19,17 @@ system. The mathematical finance will be adapted from lectures taught in the CS7
   * Respond to client requests to calculate fair value and risk parameters.
   * Financial mathematical computations will implement algorithms taught in the CS765 course.
 
-1. **Database**:
+1. **Database**:  
   * Login information for trader accounts.
   * Contents of trading portfolio (name of security, quantity bought/sold, price, etc.)
   * Record of trades performed by each trader.
   * Simulated databas of “stock market” of available securities to trade.
 
-1. **Security**:
+1. **Security**:  
   * Clients’ password and foget account, password resetting.
   * Admins’ management authority. 
   * Disable public access to cloud database. 
-  * Email verification.
+  * Email verification.  
 
 * Software to be used (partial list)
   * InteliJ IDEA
