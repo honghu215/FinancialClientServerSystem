@@ -35,5 +35,5 @@ system. The mathematical finance will be adapted from lectures taught in the CS7
   
 * Software to be used (partial list)
     * InteliJ IDEA
-    * Github: https://github.com/honghu215/FinancialClientServerSystem.git
+    * [button: Github](https://github.com/honghu215/FinancialClientServerSystem.git)
 
